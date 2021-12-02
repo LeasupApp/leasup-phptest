@@ -16,7 +16,7 @@ You must "handle" errors by displaying error (`[E]`) or information (`[I]`) mess
 
 At the end of the execution your output should look like this:
 
-```
+```shell
 $> php main.php
 [I] Client folder client3 is empty.
 array(3) {
