@@ -33,6 +33,9 @@ array(3) {
 
 ## Execution
 
+First of all, you should clone this repository.
+Then delete the `.gitkeep` file inside `for-the-task/clients/client3`.
+
 In order to complete this task, use the `main.php` file in this repository and complete the "`task`" function.
 
 For running the program, you can just execute in a shell of your choice:
