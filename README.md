@@ -4,7 +4,7 @@
 
 This test is designed to not be particularly hard on purpose. You can therefore dedicate some time on the error management part as well as the readability of your code.
 
-You are free to use any external resources to complete the task (You might need [https://php.net/](https://php.net/)).
+You are free to use any external resources (except AI tools like Github Copilot or ChatGPT) to complete the task. You might need [https://php.net/](https://php.net/).
 
 ## The task
 
